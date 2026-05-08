@@ -67,28 +67,7 @@ export default function Home() {
         </section>
         
         /* {/* Stats/Quality Section */}
-        <section className="py-24">
-          <div className="max-w-[1280px] mx-auto px-gutter">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-              <div className="text-center">
-                <div className="text-[48px] font-bold text-secondary mb-2">500+</div>
-                <div className="font-label-md text-label-md text-on-surface-variant">Venues Managed</div>
-              </div>
-              <div className="text-center">
-                <div className="text-[48px] font-bold text-secondary mb-2">10k+</div>
-                <div className="font-label-md text-label-md text-on-surface-variant">Annual Guests</div>
-              </div>
-              <div className="text-center">
-                <div className="text-[48px] font-bold text-secondary mb-2">99%</div>
-                <div className="font-label-md text-label-md text-on-surface-variant">User Satisfaction</div>
-              </div>
-              <div className="text-center">
-                <div className="text-[48px] font-bold text-secondary mb-2">24/7</div>
-                <div className="font-label-md text-label-md text-on-surface-variant">Support Ready</div>
-              </div>
-            </div>
-          </div>
-        </section> */
+
       </main>
       
       {/* Footer */}
