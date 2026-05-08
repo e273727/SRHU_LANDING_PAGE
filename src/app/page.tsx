@@ -66,7 +66,7 @@ export default function Home() {
           </div>
         </section>
         
-        {/* Stats/Quality Section */}
+        /* {/* Stats/Quality Section */}
         <section className="py-24">
           <div className="max-w-[1280px] mx-auto px-gutter">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
@@ -88,7 +88,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */
       </main>
       
       {/* Footer */}
